@@ -1,6 +1,0 @@
-JDBC各个对象
-    1.DriveManager:     驱动管理对象
-    2.Connection:       数据库连接对象
-    3.Statement:        执行sql的对象
-    4.ResultSet:        结果集对象
-    5.PreparedStatement:执行sql的对象
